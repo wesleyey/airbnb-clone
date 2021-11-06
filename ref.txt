@@ -1,0 +1,8 @@
+pipenv --three
+pipenv shell
+pipenv install Django==(version)
+
+(make new repository on github)
+git init
+git remote add origin (url)
+git add 
